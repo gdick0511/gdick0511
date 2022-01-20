@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 - :telescope: I’m currently working on JS/React applications with a backend set up in Ruby
 - :seedling: I’m currently learning Redux
 - :speech_balloon: Ask me about anything!
-- :crown: Fun fact: Bob Ross is my spirit aniaml.
+- :crown: Fun fact: Bob Ross is my spirit animal.
 ## Skills & Experience
 Ruby - Ruby on Rails - SQL - JavaScript - React - HTML - CSS - Figma
 <!-- ## Let's Connect! -->
